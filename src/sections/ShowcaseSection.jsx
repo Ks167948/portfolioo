@@ -60,6 +60,24 @@ const AppShowcase = () => {
                 An app built with React Native, Expo, & TailwindCSS for a fast,
                 user-friendly experience.
               </p>
+              <div className="flex gap-4 mt-6">
+                <a
+                  href="https://your-live-project-url.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 bg-[#915EFF] text-white rounded-lg hover:bg-[#7B4FD9] transition-all duration-300"
+                >
+                  Live Project
+                </a>
+                <a
+                  href="https://your-video-demo-url.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 border-2 border-[#915EFF] text-white rounded-lg hover:bg-[#915EFF] hover:text-white transition-all duration-300"
+                >
+                  Video Demo
+                </a>
+              </div>
             </div>
           </div>
 
@@ -72,6 +90,24 @@ const AppShowcase = () => {
                 />
               </div>
               <h2>The Library Management Platform</h2>
+              <div className="flex gap-4 mt-6">
+                <a
+                  href="https://your-live-project-url.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 bg-[#915EFF] text-white rounded-lg hover:bg-[#7B4FD9] transition-all duration-300"
+                >
+                  Live Project
+                </a>
+                <a
+                  href="https://your-video-demo-url.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 border-2 border-[#915EFF] text-white rounded-lg hover:bg-[#915EFF] hover:text-white transition-all duration-300"
+                >
+                  Video Demo
+                </a>
+              </div>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
@@ -79,6 +115,24 @@ const AppShowcase = () => {
                 <img src="/images/project3.png" alt="YC Directory App" />
               </div>
               <h2>YC Directory - A Startup Showcase App</h2>
+              <div className="flex gap-4 mt-6">
+                <a
+                  href="https://your-live-project-url.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 bg-[#915EFF] text-white rounded-lg hover:bg-[#7B4FD9] transition-all duration-300"
+                >
+                  Live Project
+                </a>
+                <a
+                  href="https://your-video-demo-url.com"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="px-6 py-3 border-2 border-[#915EFF] text-white rounded-lg hover:bg-[#915EFF] hover:text-white transition-all duration-300"
+                >
+                  Video Demo
+                </a>
+              </div>
             </div>
           </div>
         </div>

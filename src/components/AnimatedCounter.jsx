@@ -13,10 +13,10 @@ const AnimatedCounter = () => {
   const [imageErrors, setImageErrors] = useState({});
 
   const cardUrls = {
-    experience: "https://leetcode.com/",
-    clients: "https://codeforces.com/",
-    projects: "https://www.codechef.com/",
-    retention: "https://github.com/adrianhajdin?tab=stars",
+    experience: "https://leetcode.com/u/ks167948/",
+    clients: "https://codeforces.com/profile/ranger_908287",
+    projects: "https://www.codechef.com/users/king_kishor/",
+    retention: "https://leetcode.com/u/ks167948/",
   };
 
   const cardIcons = {
